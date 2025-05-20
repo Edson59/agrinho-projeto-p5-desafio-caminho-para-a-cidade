@@ -1,3 +1,5 @@
+Projeto "Caminho para a Cidade"
+
 Desenvolvimento de um jogo em JavaScript utilizando a biblioteca p5.js, onde o jogador controla um personagem que precisa chegar à cidade sem colidir com obstáculos ou pedras, coletando frutas para ganhar vidas.
 O jogo apresenta uma mecânica de colisão, sistema de vidas e condições de vitória e derrota.
 
